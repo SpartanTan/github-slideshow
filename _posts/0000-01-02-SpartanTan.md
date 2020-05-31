@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*Let's see if the markd syntax works.
 Use the left arrow to go back!
